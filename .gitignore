@@ -1,0 +1,9 @@
+# Files your computer adds to folders
+.DS_Store
+Thumbs.db
+
+# The CodePen export itself. Its files belong in this repository; the zip does not.
+*.zip
+
+# CodePen's own settings folder
+.codepen/
