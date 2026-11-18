@@ -1,0 +1,51 @@
+ body {
+      background-color: black;
+      font-family: "Encode Sans Semi Expanded", sans-serif;
+    }
+    h2 {
+      color: ivory;
+    }
+    p {
+      color: white;
+    }
+h1 {
+  color: coral;
+  font-family: "Silkscreen", sans-serif;
+}
+
+h3 {
+  color: coral;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  color: white;
+}
+
+ol {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+a {
+  color: tan;
+}
+
+.done {
+   background-color: forestgreen;
+}
+
+.todo {
+  background-color: crimson;
+}
+
+#week-2 {
+   font-size: 20px;
+}
+
